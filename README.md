@@ -1,3 +1,12 @@
+
+# e9571-config-reader-haskell
+
+[![Hackage](https://img.shields.io/hackage/v/e9571-config-reader-haskell.svg?color=green)](https://hackage.haskell.org/package/e9571-config-reader-haskell)
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/e9571/e9571-config-reader-haskell/blob/main/LICENSE)
+
+Automatically read config.json from the current directory or parent directories.
+
+
 # e9571-config-reader-haskell
 
 A tiny, **zero-configuration** Haskell library that instantly reads a `config.json` file from the current working directory.
